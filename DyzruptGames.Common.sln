@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DyzruptGames.Common", "DyzruptGames.Common\DyzruptGames.Common.csproj", "{D5706207-5A95-458A-A284-8A5A161438FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DyzruptGames.Common.Test", "DyzruptGames.Common.Test\DyzruptGames.Common.Test.csproj", "{FC2B44D4-D15F-4070-BB76-93F934880F96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5706207-5A95-458A-A284-8A5A161438FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5706207-5A95-458A-A284-8A5A161438FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5706207-5A95-458A-A284-8A5A161438FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5706207-5A95-458A-A284-8A5A161438FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC2B44D4-D15F-4070-BB76-93F934880F96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC2B44D4-D15F-4070-BB76-93F934880F96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC2B44D4-D15F-4070-BB76-93F934880F96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC2B44D4-D15F-4070-BB76-93F934880F96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
